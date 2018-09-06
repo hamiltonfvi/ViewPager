@@ -19,7 +19,9 @@
         <activity android:name=".fragment_monday" />
         <activity android:name=".MondayFragment" />
         <activity android:name=".TuesdayFragment" />
-        <activity android:name=".WednesdayFragment"></activity>
+        <activity android:name=".WednesdayFragment" />
+        <activity android:name=".ThursdayFragment" />
+        <activity android:name=".FridayFragment"></activity>
     </application>
 
 </manifest>
